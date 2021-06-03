@@ -70,6 +70,9 @@
 		A0165549266874EC009E6648 /* TaskAppSwiftUI */ = {
 			isa = PBXGroup;
 			children = (
+				A0858A6D266878970071E700 /* ModelView */,
+				A0858A6C2668788F0071E700 /* Model */,
+				A0858A6B266878830071E700 /* View */,
 				A0858A56266877450071E700 /* Helper */,
 				A016554A266874EC009E6648 /* TaskAppSwiftUIApp.swift */,
 				A016554C266874EC009E6648 /* ContentView.swift */,
@@ -127,6 +130,27 @@
 				A0858A67266877770071E700 /* Poppins-ThinItalic.ttf */,
 			);
 			name = Poppins;
+			sourceTree = "<group>";
+		};
+		A0858A6B266878830071E700 /* View */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		A0858A6C2668788F0071E700 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		A0858A6D266878970071E700 /* ModelView */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = ModelView;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
